@@ -16,8 +16,5 @@ This project includes a Bookstore & Reading Club page and JavaScript exercises c
 - Operators
 - User input with Prompt & Alert
 
-## 🔗 GitHub
-[View Repository](YOUR_GITHUB_URL)
-
 ## 👨‍💻 Author
 **Naser Bader**
